@@ -30,5 +30,3 @@ for index, message in enumerate(messages):
         conn.send(bytes('Teste bem sucedido, Parabens!', 'utf-8'))
 
 conn.close()
-
-conn.close()
